@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>16.jpg</filename>
-	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\16.jpg</path>
+	<path>/home/abhishek/cn/data/images/16.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,39 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>date</name>
+		<name>input</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>145</xmin>
-			<ymin>198</ymin>
-			<xmax>259</xmax>
-			<ymax>377</ymax>
+			<xmin>215</xmin>
+			<ymin>168</ymin>
+			<xmax>358</xmax>
+			<ymax>193</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
+		<name>input</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>490</xmin>
+			<xmin>216</xmin>
 			<ymin>215</ymin>
-			<xmax>611</xmax>
-			<ymax>361</ymax>
+			<xmax>360</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>button</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>248</ymin>
+			<xmax>360</xmax>
+			<ymax>273</ymax>
 		</bndbox>
 	</object>
 </annotation>

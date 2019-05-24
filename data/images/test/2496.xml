@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>2496.jpg</filename>
+  <path>object_detection_demo/images/2496.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Button</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>554</xmin>
+      <xmax>726</xmax>
+      <ymin>232</ymin>
+      <ymax>265</ymax>
+    </bndbox>
+  </object>
+</annotation>
